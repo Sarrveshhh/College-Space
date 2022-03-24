@@ -1,0 +1,38 @@
+.title{
+    font-family: cursive;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+}
+.topl{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float:left;
+    
+}
+.topr{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+/*#topleft{
+    float:left;
+    padding: 16px;
+}*/
+li{
+    float: right;
+    padding: 16px;
+    text-align: center;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+}
